@@ -1,3 +1,3 @@
 #Demo
 
-Some description for the training.
+Some description for the training!
